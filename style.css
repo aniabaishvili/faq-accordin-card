@@ -148,7 +148,7 @@ h1{
         display: block;
         position: absolute;
         width:450px;
-        transform: translateY(-390px);
+        transform: translateY(-330px);
         margin-left: -50px;
     }
 
@@ -182,7 +182,12 @@ h1{
 
     }
 
-    
+     .box{
+        display: block;
+        transform: translateY(-140px);
+        margin-left: -50px;
+        
+    }
 
    
 }
