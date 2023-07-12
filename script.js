@@ -31,7 +31,7 @@ answerWrappers.forEach(function(wrapper) {
     } else {
       answer.style.display = "none";
       question.style.color = "4b4c5f"; // Reset color
-      question.style.font ="normal";
+      question.style.fontWeight ="normal";
     }
   });
 });
