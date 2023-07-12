@@ -137,6 +137,7 @@ h1{
         width:472px;
         height:357px;
         margin-left: -60px;
+        transform: translateY(70px);
         
        
     }
