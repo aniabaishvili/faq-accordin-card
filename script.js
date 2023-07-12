@@ -17,6 +17,7 @@ answerWrappers.forEach(function(wrapper) {
         otherAnswer.classList.remove("show-answer");
         otherArrow.classList.remove("rotate-arrow");
         otherAnswer.style.display = "none";
+        otherQuestion.style.fontWeight = "normal";
       }
     });
 
