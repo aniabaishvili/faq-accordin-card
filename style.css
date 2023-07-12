@@ -59,7 +59,7 @@ p{
 
 
 
- p:hover{
+ .answer-div p:hover{
     color: #F47B56;
     cursor: pointer;
 }
