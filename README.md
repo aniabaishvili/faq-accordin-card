@@ -1,4 +1,5 @@
 # Faq-accordin-card
+![ua4zwoxu3i9avrzrusre](https://github.com/aniabaishvili/faq-accordin-card/assets/110342939/3ba55cba-0286-4d2b-8300-519441c904d3)
 
 
 # Welcome! 👋
